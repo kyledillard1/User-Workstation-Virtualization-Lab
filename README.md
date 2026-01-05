@@ -63,3 +63,13 @@ The following issues were intentionally introduced and resolved:
 - Disabled network adapter resulting in loss of connectivity
 - Incorrect IP/DNS configuration preventing internet access
 - Permission restrictions when installing software as a standard user
+
+## 📸 Screenshots
+Screenshots are included to document:
+- Virtual machine configuration settings
+- Successful Windows 11 installation
+- User account creation
+- Network connectivity tests
+- Troubleshooting resolutions  
+
+➡️ See the `screenshots/` folder.
