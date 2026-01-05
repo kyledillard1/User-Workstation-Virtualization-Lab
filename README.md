@@ -37,3 +37,29 @@ This lab reflects tasks commonly performed by **IT Support Specialists, Desktop 
 - **CPU:** 2 cores  
 - **Storage:** 50 GB virtual disk  
 - **Network Mode:** NAT  
+## 🔧 Tasks Performed
+
+### 1️⃣ Operating System Installation
+- Installed Windows 11 using an ISO file
+- Completed initial system setup and updates
+- Verified system information and performance
+
+### 2️⃣ User Account Management
+- Created a local administrator account
+- Created a standard user account
+- Tested permission differences between administrative and standard users
+
+### 3️⃣ Network Configuration & Testing
+- Verified IP addressing using `ipconfig`
+- Tested network connectivity using `ping`
+- Confirmed DNS resolution and internet access
+
+### 4️⃣ Peripheral Setup
+- Installed and configured a printer
+- Set default printer and verified installation
+
+### 5️⃣ Troubleshooting Scenarios
+The following issues were intentionally introduced and resolved:
+- Disabled network adapter resulting in loss of connectivity
+- Incorrect IP/DNS configuration preventing internet access
+- Permission restrictions when installing software as a standard user
