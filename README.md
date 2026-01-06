@@ -3,8 +3,6 @@
 ## 📌 Project Overview
 This project simulates a **real-world end-user workstation** using **Windows 11** in a virtualized environment. The purpose of this lab is to demonstrate foundational IT support and field technician skills, including operating system deployment, user account management, network connectivity verification, and troubleshooting common workstation issues.
 
-This lab reflects tasks commonly performed by **IT Support Specialists, Desktop Support, and IT Field Technicians** during new workstation setups and break/fix support.
-
 ---
 
 ## 🎯 Objectives
