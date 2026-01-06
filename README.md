@@ -8,7 +8,7 @@ This project simulates a **real-world end-user workstation** using **Windows 11*
 ## 🎯 Objectives
 - Install and configure a Windows 11 workstation in a virtual machine  
 - Create and manage local user accounts  
-- Verify and troubleshoot network connectivity  
+- Verified basic network connectivity for a Windows 11 virtual workstation 
 - Simulate common help desk and field technician scenarios  
 - Document configuration and troubleshooting steps  
 
