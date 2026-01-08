@@ -59,8 +59,10 @@ This project simulates a **real-world end-user workstation** using **Windows 11*
 ### 5️⃣ Troubleshooting Scenarios
 The following issues were intentionally introduced and resolved:
 - Disabled network adapter resulting in loss of connectivity
-- Incorrect IP/DNS configuration preventing internet access
+  - Simulated a network connectivity issues by disabling the workstation's network adapter, resulting in a loss of internet     accesss. Restored connectivity by re-enabling the adapter and verifying successful IP assignment and network                communication using command-line tools
+
 - Permission restrictions when installing software as a standard user
+    - Verified Windows Permission restrictions by attempting to install Google Chrome as a standard user. The installation         was blocked by User Account Control (UAC), requiring admimstrator credentials. This confirmed proper enforcement of         least privilege and separation between standard and adminstrative users.
 
 ## 📸 Screenshots
 Screenshots are included to document:
