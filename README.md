@@ -54,7 +54,9 @@ This project simulates a **real-world end-user workstation** using **Windows 11*
 
 ### 4️⃣ Peripheral Setup
 - Installed and configured a printer
+
 - Set default printer and verified installation
+  - Installed and configured a local printer in Windows 11 using a generic driver. Verified default printer setting and         simulated printer troubleshooting by removing and resintstalling the device.
 
 ### 5️⃣ Troubleshooting Scenarios
 The following issues were intentionally introduced and resolved:
