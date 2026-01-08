@@ -17,7 +17,7 @@ This project simulates a **real-world end-user workstation** using **Windows 11*
 ## 🛠️ Tools & Technologies
 - VirtualBox (hypervisor)
 - Windows 11 (64-bit ISO)
-- Command-line networking tools (`ipconfig`, `ping`, `tracert`)
+- Command-line networking tools (`ipconfig` and `ping`)
 - GitHub for documentation and version control
 
 ---
