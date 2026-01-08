@@ -69,7 +69,6 @@ The following issues were intentionally introduced and resolved:
 ## 📸 Screenshots
 Screenshots are included to document:
 - Virtual machine configuration settings
-- Successful Windows 11 installation
 - User account creation
 - Network connectivity tests
 - Troubleshooting resolutions  
